@@ -1,0 +1,6 @@
+rahul, 23
+virat, 456
+dhoni, 234
+russel, 67
+sagnik, 43
+vivek, 243

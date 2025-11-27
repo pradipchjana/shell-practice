@@ -1,0 +1,1 @@
+console.log(Deno.readTextFileSync('./information.txt').split('\n').join(''));
