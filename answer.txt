@@ -4,3 +4,8 @@ russel, 67
 sagnik, 43
 virat, 456
 vivek, 243
+
+x.every(k=>k[0]==='a')
+ const y = x.take(5)
+
+ x.next()
